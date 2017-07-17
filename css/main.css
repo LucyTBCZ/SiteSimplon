@@ -1,0 +1,128 @@
+body{
+	background-image: url("http://benoitfelten.com/wp-content/uploads/2013/01/fiber-14.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Verdana, Arial, Sans-Serif;
+	color: green;
+}
+
+.menu{
+	display:flex;
+	flex-direction: row;
+}
+
+.menublock{
+	border: 1px solid green;
+	padding:25px;
+	margin: auto;
+}
+
+#un {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #34d939;
+  padding: 10px 20px 10px 20px;
+  border: dotted #1f8c24 2px;
+  text-decoration: none;
+}
+
+#un:hover {
+  background: #83fc3c;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+#deux {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #34d939;
+  padding: 10px 20px 10px 20px;
+  border: dotted #1f8c24 2px;
+  text-decoration: none;
+}
+
+#deux:hover {
+  background: #83fc3c;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+#trois {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #34d939;
+  padding: 10px 20px 10px 20px;
+  border: dotted #1f8c24 2px;
+  text-decoration: none;
+}
+
+#trois:hover {
+  background: #83fc3c;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+#quatre {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #34d939;
+  padding: 10px 20px 10px 20px;
+  border: dotted #1f8c24 2px;
+  text-decoration: none;
+}
+
+#quatre:hover {
+  background: #83fc3c;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+.part {
+	display: none;
+}
+
+#Presentation {	
+	display: block;
+}
+
+h1, .start, .part{
+	margin:10px 5px 10px 5px;
+	padding:15px;
+	background-color: black;
+	border: 1px dashed green;
+	border-radius: 10px;
+	text-align:justify;
+}
+
+h1, h3{
+	text-align:center;
+}
+
+figcaption{
+	text-align: center;
+	color:black;
+}
+
+.IdImg{
+	max-height: 400px;
+	max-width: 300px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
