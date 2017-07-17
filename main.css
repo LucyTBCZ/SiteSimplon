@@ -8,9 +8,11 @@ body{
 
 h1, .start, .part{
 	margin:10px 5px 10px 5px;
+	padding:15px;
 	background-color: black;
 	border: 1px dashed green;
 	border-radius: 10px;
+	text-align:justify;
 }
 h1, h3{
 	text-align:center;
